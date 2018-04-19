@@ -1,13 +1,13 @@
 # XXTouch
 
-This is XXTouch (Client) v1.0, work with XXTouch (Daemon) 1.0.x.
+This is XXTouch (iOS Client) v1.0, work with XXTouch (iOS Daemon) 1.0.x.
 
 XXTouch iOS 客户端 1.0 版本，与 XXTouch 服务 1.0.x 协同工作。
 
 
 ## 说明
 
-该源代码工程是 XXTouch 原始旧版本工程，采用 XXTouch OpenAPI 与服务进行通讯控制。
+该源代码工程是 XXTouch 原始 Swift 旧版本工程，采用 XXTouch OpenAPI 与服务进行通讯控制。
 您可以进行 OEM 定制，但定制时请务必修改客户端内的说明文档、关于页面及联系方式。
 
 
@@ -18,5 +18,5 @@ XXTouch iOS 客户端 1.0 版本，与 XXTouch 服务 1.0.x 协同工作。
 
 ## License
 
-XXTouch is available under the MIT license. See the LICENSE file for more info.
+XXTouch (iOS Client) is available under the MIT license. See the LICENSE file for more info.
 
