@@ -18,5 +18,5 @@ XXTouch iOS 客户端 1.0 版本，与 XXTouch 服务 1.0.x 协同工作。
 
 ## License
 
-Coding is available under the MIT license. See the LICENSE file for more info.
+XXTouch is available under the MIT license. See the LICENSE file for more info.
 
