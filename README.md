@@ -23,6 +23,14 @@ pod install
 open XXTouchApp.xcworkspace
 ```
 
+## 这里面有什么
+
+- 简易的文件管理功能
+- 简易的代码编辑功能
+- XXTouch OpenAPI 使用示例
+
+该版本是 XXTouch 原生 App 的第一个版本，诞生于 Swift 2 时期。
+
 
 ## 免责声明
 
